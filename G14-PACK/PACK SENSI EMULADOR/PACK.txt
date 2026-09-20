@@ -1,0 +1,68 @@
+
+EMULADOR - 4.240.0.6315 
+
+RESOLUÇÃO - 1920X1080
+
+CAMPOS
+
+X-79,2
+Y-50
+
+SENSI Y
+SENSI X
+
+DPI MOUSE - 1000
+
+DPI EMULADOR - 440
+
+POLLING HATE MOUSE - 1000
+
+
+DOWNLOAD EMULADOR -  https://www.mediafire.com/file/rx1kalgl5lmbbtf/MSI_4.240.15.6305.rar/file
+
+--------------------------------------------------------------------------------------
+
+EMULADOR - 4.240.30.1002
+
+RESOLUÇÃO - 1920X1080
+
+CAMPOS
+
+X-80
+Y-47,2
+
+SENSI Y 0.44
+SENSI X 1.22
+
+DPI MOUSE - 800
+
+DPI EMULADOR - 320
+
+POLLING HATE MOUSE - 1000
+
+DOWNLOAD BETA - https://www.mediafire.com/file/x2wghpd9p74wrkj/Beta_2.0.zip/file
+
+--------------------------------------------------------------------------------------
+
+EMULADOR - 5.9.300
+
+RESOLUÇÃO - 1600X1024
+
+CAMPOS
+
+X-80
+Y-60
+
+SENSI Y 0.49
+SENSI X 1.10
+
+DPI MOUSE - 800 - 1000
+
+DPI EMULADOR - 240
+
+POLLING HATE MOUSE - 500
+
+DOWNLOAD - https://www.mediafire.com/file/up8erhkjg7fhsa2/MSI+5.9.300.6315.exe/file
+
+
+

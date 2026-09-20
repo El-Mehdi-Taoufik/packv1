@@ -1,0 +1,9 @@
+Fax 
+Cartão Inteligente
+Registro Remoto
+Server
+Serviço AVCTP
+SysMain
+Telefonia
+Spooler de impressão
+Roteamento e Acesso Remoto

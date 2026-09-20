@@ -1,0 +1,4 @@
+1. Execute o dControl;
+2. Apenas clique em desativar o windows defender e pronto (não esqueçam
+de reiniciar o pc depois de fizerem todas as otimizações).
+
