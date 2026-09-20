@@ -1,5 +1,0 @@
-1. Execute e instale o MemReduct;
-2. Apenas clique em ''Limpar Memória''. Isso limpará o cache e dados inúteis que
-consomem espaço da sua memória ram, deixando seu jogo e pc mais liso.
-
-https://discord.gg/refugefx
